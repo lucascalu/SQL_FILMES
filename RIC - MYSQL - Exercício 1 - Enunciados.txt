@@ -1,0 +1,17 @@
+01. Crie um script SQL que mostre todas as colunas, onde liste apenas o TIPO "série" da tabela de ENTRETERIMENTO;
+02. Crie um script SQL que mostre todas as colunas, onde liste apenas o TIPO "série" da tabela de ENTRETERIMENTO, mas em ordem alfabética de NOMES(de A até Z); 
+03. Crie um script SQL que mostre apenas o TIPO "série" da tabela de ENTRETERIMENTO, porém de forma alfabética INVERTIDA (de Z para A);
+04. Crie um script SQL que mostre apenas o TIPO "FILME" da tabela de ENTRETERIMENTO;
+05. Liste os filmes que foram produzidos antes dos anos 2000;
+06. Liste as séries que foram produzidas após o ano 2015;
+07. Liste os filmes de ação(e suas variações, como por exemplo: Ação/Drama);
+08. Mostre os filmes que tem duração superior a 2horas;
+09. Liste as séries que foram produzidas entre os anos de 2012 até 2016, em ordem de ano e em seguida pelo nome da série;
+10. Mostre os filmes que o ator Brad Pitt trabalhou por onde do filme mais antigo para o mais novo;
+11. Liste apenas o campo NOME, DIRETOR, ATOR PRINCIAL dos itens que são do gênero "crime" (e suas variações) e o ator seja "John Travolta";
+12. Liste os itens que a duração seja superior a 2 horas e que o ator NÃO seja Christian Bale ou Tim Robbins 
+13. Liste os itens que NÃO seja de Comédia ou drama;
+14. Liste todos os itens que foram criados, que não seja dos anos 2000, 2001 ou 2002;
+15. Liste os itens que tiveram como ator Wagner Moura ou Leonardo DiCaprio ou Keanu Reeves
+
+
