@@ -1,0 +1,12 @@
+01. Abra o DATABASE ENTRETERIMENTO;
+02. Em "estruturas", acrescentar o campo NACIONALIDADE do tipo varchar(50);
+03. Pesquise a nacionalidade de cada um dos 30 registros desta tabela, e através do comando UPDATE, atualize sua tabela inteira;
+04. Em "estruturas", acrescentar o campo [RANKING] do tipo INTEIRO;
+05. Em "estruturas", acrescentar o campo [RANKING_TIPO] do tipo varchar(50);
+06. Em "estruturas", acrescentar o campo [RANKING_NOME] do tipo varchar(50);
+07. Pesquise na Internet 2 filmes do RANKING _NOME "NETFLIX" (brasil) e acrescente os nomes na tabela, através do comando INSERT (você precisará pesquisar o nome do diretor, ator, atriz, ano, etc...);
+08. Pesquise na Internet 2 filmes do RANKING_NOME "AMAZON PRIME" (brasil) e acrescente os nomes na tabela, através do comando INSERT (você precisará pesquisar o nome do diretor, ator, atriz, ano, etc...);
+09. Pesquise na Internet 2 filmes do RANKING_NOME "(que você conheça)" (brasil) e acrescente os nomes na tabela, através do comando INSERT (você precisará pesquisar o nome do diretor, ator, atriz, ano, etc...);
+10. Utilizando o comando UPDATE, atualize sua tabela, de forma que o [RANKING_NOME] de todos os registros, contenha uma das 3 opções que você criou (exercício de 7 até 9);
+11. Atualize também o [RANKING_TIPO], usando o TIPO "Nacional" ou "Mundial" - Informando se este ranking é para o Brasil (netflix brasil - por exemplo), ou se é ranking Mundial (da netflix - por exemplo)
+12. Atualize os números dos RANKINGs.
